@@ -24,7 +24,7 @@ public class UTS_NO3_A_3022 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
          
         try {
-            //mengisi data ke array pada data nelayan
+            //mengisi data ke array pada data mahasiswa
             for(int i = 0; i < 1; i++){
                 System.out.print("NIM              : ");
                 A[i].nim_3022 = br.readLine();

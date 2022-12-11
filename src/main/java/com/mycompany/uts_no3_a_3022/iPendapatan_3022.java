@@ -10,10 +10,5 @@ package com.mycompany.uts_no3_a_3022;
  * Ailsya Putri / 21103022 / SI05A
  */
 public interface iPendapatan_3022 {
-    
-    public double totalPendapatanAsisten_3022();
-    public double totalPendapatanStaff_3022();
-    
-    public void tampilDataAsistenPraktikum_3022();
-    public void tampilDataStudentStaff_3022();
+    public double totalPendapatan();
 }
